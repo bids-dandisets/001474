@@ -43,23 +43,41 @@ contributor:
   - dcite:Author
   schemaKey: Person
 dateCreated: '2025-06-13T14:18:14.559884+00:00'
-description: "Fiber photometry and linked behavioural data examining feeding-evoked
-  response dynamics in hypothalamic satiety neurons.\n\nFood consumption-evoked responses
-  in PVHMC4R neurons increase gradually during meal consumption to promote satiety,
-  and disrupting this process drives massive obesity. These critical\nsatiety neurons
-  are strongly affected by a high-fat diet, yet the impact on their functional properties
-  remains unknown. We used fiber photometry to track PVHMC4R neurons’ responses to
-  the consumption of drops of milkshake in animals fed a chow diet or a high-fat diet
-  (HFD), both after obesity was established and after its reversal. "
+datePublished: '2025-10-31T17:25:25.302668+00:00'
+description: 'Data from Porniece, M., Baker, J., Ausfahl, C.D. et al. "Obesity dysregulates
+  feeding-evoked response dynamics in hypothalamic satiety neurons". Sci Rep 15, 35837
+  (2025). https://doi.org/10.1038/s41598-025-19800-2 Fiber photometry and linked behavioural
+  data examining feeding-evoked response dynamics in hypothalamic satiety neurons.
+  Food consumption-evoked responses in PVHMC4R neurons increase gradually during meal
+  consumption to promote satiety, and disrupting this process drives massive obesity.
+  These criticalsatiety neurons are strongly affected by a high-fat diet, yet the
+  impact on their functional properties remains unknown. We used fiber photometry
+  to track PVHMC4R neurons’ responses to the consumption of drops of milkshake in
+  animals fed a chow diet or a high-fat diet (HFD), both after obesity was established
+  and after its reversal. '
 ethicsApproval: []
 id: DANDI:001474/draft
 identifier: DANDI:001474
+keywords:
+- obesity, MC4R neurons
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001474/versions/draft/assets/
 name: Obesity dysregulates feeding-evoked response dynamics in hypothalamic satiety
   neurons
+publishedBy:
+  endDate: '2025-10-31T17:25:25.302668+00:00'
+  id: urn:uuid:b2e29d91-5a0b-4390-af5a-21bf336546b9
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-10-31T17:25:25.302668+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:545423df-fac3-40da-9d34-46319c871ecc
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
